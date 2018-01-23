@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bjørn Høyland Political Scientist"
+title                    : "Bjørn Høyland's webpage"
 title_separator          : "-"
 name                     : &name "Bjørn Høyland"
 description              : &description "Professor of Political Science, University of Oslo"
