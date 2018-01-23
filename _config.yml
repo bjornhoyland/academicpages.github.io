@@ -82,10 +82,10 @@ author:
   avatar           : "profile.png"
   bio              : "Professor of Political Science"
   location         : "Oslo, Norway"
-  employer         :
+  employer         : "University of Oslo"
   googlescholar    : "https://scholar.google.com/citations?user=LKrqoSgAAAAJ&hl=en"
-  email            :
-  uri              :
+  email            : "bjorn.hoyland@stv.uio.no"
+  uri              : "http://www.sv.uio.no/isv/english/people/aca/bjornkho/index.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-7406-9348"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "bjornhoyland"
   vine             :
   weibo            :
   xing             :
