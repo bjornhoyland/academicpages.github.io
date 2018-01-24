@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* PhD in Political Science, Department of Government, London School of Economics and Political Science (LSE), United Kingdom, 2005
+* MRes in Political Science (with Distinction) Department of Government, LSE, 2003
+* Visiting Student - Economics and Management, Aix-Marseille, France, 2001
+* MSc in European Political Economy: Integration, European Institute, LSE, 2000
+* Cand.Mag in Political Science and Economics, University of Bergen, Norway
 
-Work experience
+Current and Previous Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Professor of Political Science (since 2011)
+	* Department of Political Science, University of Oslo, Norway
+
+* Associate Professor of Political Science (2011)
+	* Department of Political Science, University of Oslo, Norway
+
+* Senior Researcher (2010-2011)
+	* CICERO - Centre for International Climate and Environment Research Oslo, Norway
+
+* Postdoctoral Research Fellow (2006 - 2010)
+	* Department of Political Science, University of Oslo, Norway
+
+* ESCR Postdoctoral fellow (2005 - 2006)
+	* Department of Political Science / School of Public Policy, University College London, UK
+
+* Temporary Lecturer (2005)
+	* Department of Political Science / School of Public Policy, University College London, UK
+
+* Research assistant and seminar leader (2002 - 2004)
+	* Department of Government / Methodology Institute, LSE, UK
   
-Skills
+Fellowships and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Anna Lindh Fellow and Visiting Professor, Europe Center, Stanford University, USA 2013 - 2014
+* Postdoctoral Fellowship, Award received from Economic and Social Research Council, UK 2005 - 2006
+* Research Studentship, LSE, UK 2003 - 2004
+* 1999 Lise and Arnfinn's Heie Award for academic achievements, 1999
+
+Visiting Professor
+======
+* Europe Center, Freeman Spogli Institute, Stanford University 2013 - 2014
+	* Anna Lindh visting fellow
 
 Publications
 ======
@@ -56,4 +73,10 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Elected Faculty Representative to the Board of the Faculty of Social Sciences, University of Oslo, 2012 - 
+* External Evaluator – Postdoctoral fellowship Research Foundation Flanders, Belgium 2016 & 2017
+* Evaluator – Postdoctoral fellowship, Research Council of the Catholic University of Louvain, Belgium, 2017
+* Member Promotion Committee, Institute of European and American Studies, Academia Sinica, Taipei, Taiwan, 2016
+
+
+
