@@ -11,11 +11,18 @@ redirect_from:
 
 Education
 ======
-* PhD in Political Science, Department of Government, London School of Economics and Political Science (LSE), United Kingdom, 2005
-* MRes in Political Science (with Distinction) Department of Government, LSE, 2003
-* Visiting Student - Economics and Management, Aix-Marseille, France, 2001
-* MSc in European Political Economy: Integration, European Institute, LSE, 2000
-* Cand.Mag in Political Science and Economics, University of Bergen, Norway
+
+* PhD in Political Science 2005
+	*Department of Government, London School of Economics and Political Science (LSE), United Kingdom
+	
+* MRes in Political Science (with Distinction) 2003
+	* Department of Government, LSE, 2003
+* Visiting Student 2001
+	* Economics and Management, Aix-Marseille, France
+* MSc in European Political Economy: Integration 2000
+	* European Institute, LSE
+* Cand.Mag in Political Science and Economics 1999
+	* University of Bergen, Norway
 
 Current and Previous Positions
 ======
