@@ -13,10 +13,10 @@ Education
 ======
 
 * PhD in Political Science 2005
-	*Department of Government, London School of Economics and Political Science (LSE), United Kingdom
+	* Department of Government, London School of Economics and Political Science (LSE), United Kingdom
 	
 * MRes in Political Science (with Distinction) 2003
-	* Department of Government, LSE, 2003
+	* Department of Government, LSE
 * Visiting Student 2001
 	* Economics and Management, Aix-Marseille, France
 * MSc in European Political Economy: Integration 2000
