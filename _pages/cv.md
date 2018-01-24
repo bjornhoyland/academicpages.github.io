@@ -53,7 +53,7 @@ Fellowships and Awards
 * Anna Lindh Fellow and Visiting Professor, Europe Center, Stanford University, USA 2013 - 2014
 * Postdoctoral Fellowship, Award received from Economic and Social Research Council, UK 2005 - 2006
 * Research Studentship, LSE, UK 2003 - 2004
-* 1999 Lise and Arnfinn's Heie Award for academic achievements, 1999
+* Lise and Arnfinn's Heie Award for academic achievements, 1999
 
 Visiting Professor
 ======
@@ -80,10 +80,15 @@ Teaching
   
 Service and leadership
 ======
-* Elected Faculty Representative to the Board of the Faculty of Social Sciences, University of Oslo, 2012 - 
-* External Evaluator – Postdoctoral fellowship Research Foundation Flanders, Belgium 2016 & 2017
-* Evaluator – Postdoctoral fellowship, Research Council of the Catholic University of Louvain, Belgium, 2017
-* Member Promotion Committee, Institute of European and American Studies, Academia Sinica, Taipei, Taiwan, 2016
+
+* Elected Faculty Representative 2012 -  
+	* Board of the Faculty of Social Sciences, University of Oslo
+* External Evaluator – Postdoctoral fellowships  2016 & 2017
+	* Research Foundation Flanders, Belgium
+* Evaluator – Postdoctoral fellowship 2017
+	* Research Council of the Catholic University of Louvain, Belgium
+* Member Promotion Committee 2016 
+	* Institute of European and American Studies, Academia Sinica, Taipei, Taiwan
 
 
 
