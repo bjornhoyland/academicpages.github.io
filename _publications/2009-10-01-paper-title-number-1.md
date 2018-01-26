@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Career ambitions and legislative participation: the moderating effect of electoral institutions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'What motivates politicians to engage in legislative activities? In multilevel systems politicians may be incentivized by ambitions to advance their careers either at the state or federal level. This article argues that the design of the electoral institutions influences how politicians respond to these incentives. Analyzing a unique dataset of both ‘stated’ and ‘realized’ career ambitions of Members of the European Parliament (MEPs), it finds that those who seek to move from the European to the national (state) level participate less in legislative activities than those who plan to stay at the European (federal) level. For MEPs who aim to move to the state level, attendance and participation in legislative activities is substantively lower among legislators from candidate-centered systems. Importantly, the effect of career ambitions on legislative participation is stronger in candidate-centered systems than in party-centered systems. These findings suggest that the responsiveness associated with candidate-centered systems comes at the expense of legislative activity.'
+date: 2017-03-21
+venue: 'British Journal of Political Science'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Bjørn Høyland, Sara B. Hobolt & Simon Hix(2017). &quot;Career Ambitions and Legislative Participation: The Moderating Effect of Electoral Institutions  Online first .&quot;<i>British Journal of Political Science</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+What motivates politicians to engage in legislative activities? In multilevel systems politicians may be incentivized by ambitions to advance their careers either at the state or federal level. This article argues that the design of the electoral institutions influences how politicians respond to these incentives. Analyzing a unique dataset of both ‘stated’ and ‘realized’ career ambitions of Members of the European Parliament (MEPs), it finds that those who seek to move from the European to the national (state) level participate less in legislative activities than those who plan to stay at the European (federal) level. For MEPs who aim to move to the state level, attendance and participation in legislative activities is substantively lower among legislators from candidate-centered systems. Importantly, the effect of career ambitions on legislative participation is stronger in candidate-centered systems than in party-centered systems. These findings suggest that the responsiveness associated with candidate-centered systems comes at the expense of legislative activity.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/98DE2D21AAB41BADF9BB4F4F3CC89B93/S0007123416000697a.pdf/div-class-title-career-ambitions-and-legislative-participation-the-moderating-effect-of-electoral-institutions-div.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bjørn Høyland, Sara B. Hobolt & Simon Hix
+(forthcoming). "Career Ambitions and Legislative Participation: The
+Moderating Effect of Electoral Institutions" <i>British Journal of
+Political Science</i>.
