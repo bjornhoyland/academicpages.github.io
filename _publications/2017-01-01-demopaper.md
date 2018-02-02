@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Unity in Diversity? The Development of Political Parties in the Parliament of Canada, 1867 - 2011"
 collection: publications
 permalink: /publication/demopaper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
@@ -12,4 +12,5 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Jean-François Godbout and Bjørn Høyland (2017). "Unity in Diversity? The Development of Political Parties in the Parliament of Canada, 1867–2011" <i>British Journal of
+Political Science</i> 47 (3) 545 - 569.
