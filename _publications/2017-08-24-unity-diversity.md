@@ -1,7 +1,7 @@
 ---
 title: "Univery in Diversity? The Development of Political Parties in the Parliament of Canada, 1867 - 2011"
 collection: publications
-permalink: /publication/2017-07-01-unity-diversity
+permalink: /publication/2017-08-24-unity-diversity
 excerpt: 'Abstract What explains the development of legislative party voting unity? Evidence from the 
 United States and Britain indicate that partisan sorting, cohort replacement effects, electoral 
 incentives, and agenda control contributed to enhancing party cohesion during the 
