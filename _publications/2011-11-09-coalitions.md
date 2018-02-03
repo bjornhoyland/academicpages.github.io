@@ -19,6 +19,7 @@ Interest (Chicago: Markham)]. However, the analysis also demonstrates
 that voting coalitions form along a second dimension in the Canadian
 Parliament, mainly on issues related to federalism and the province of
 Quebec. Some evidence is also provided to show that expected electoral
-gains could explain why certain parties choose
+gains could explain why certain parties choose to support the
+government more, despite ideological incentives.
 
 [Download paper here](http://www.tandfonline.com/doi/pdf/10.1080/14662043.2011.615168?needAccess=true)
