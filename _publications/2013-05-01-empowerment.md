@@ -1,7 +1,7 @@
 ---
 title: "Empowerment of the European Parliament"
 collection: publications
-permalink: /publication/emergence
+permalink: /publication/empowerment
 excerpt: 'We review the litterature on the empowerment of the EP and suggest avenues for further research. '
 date: 2013-05-01
 venue: 'Annual Review of Political Science'
