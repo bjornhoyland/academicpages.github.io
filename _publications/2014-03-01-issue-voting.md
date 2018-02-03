@@ -12,4 +12,4 @@ Politics in the Council is Janus-faced. There is bargaining with identifiable wi
 
 [Download paper here](http://journals.sagepub.com/doi/pdf/10.1177/1465116513495970)
 
-Recommended citation: Bjørn Høyland and Vibeke Wøien Hansen (2014). "Issue-specific policy-positions and voting in the Council" <i>European Union Politics</i>  15 (1) 59 - 81.
+Recommended citation: Christophe Crombez and Bjørn Høyland (2015). "The budgetary procedure in the European Union and the implications of the Treaty of Lisbon" <i>European Union Politics</i>  16 (1) 67 - 89.
