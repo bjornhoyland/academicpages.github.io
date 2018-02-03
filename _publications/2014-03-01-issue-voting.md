@@ -2,7 +2,7 @@
 title: "Issue-specific policy-positions and voting in the Council"
 collection: publications
 permalink: /publication/issue-voting
-excerpt: 'We present a game-theoretical analysis and an empirical evaluation of the new annual budgetary procedure. '
+excerpt: 'We show that governments’ voting behaviour is guided by their issue-specific positions. '
 date: 2015-03-01
 venue: 'European Union Politics'
 paperurl: 'https://doi.org/10.1177/1465116513495970'
