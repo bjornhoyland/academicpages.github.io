@@ -6,7 +6,7 @@ excerpt: ' Inter-party voting coalitions in three minority cabinets were analyse
 date: 2011-11-09
 venue: 'Commonwealth & Comparative Politics'
 paperurl: 'https://doi.org/10.1080/14662043.2011.615168'
-citation: 'Jean-François Godbout and Bjørn Høyland (2010).&quot;Coalition voting and minority governments in Canada.&quot;<i> Commonwealth & Comparative Politics</i>  49 (4) 457 - 485.'
+citation: 'Jean-François Godbout and Bjørn Høyland (2011).&quot;Coalition voting and minority governments in Canada.&quot;<i> Commonwealth & Comparative Politics</i>  49 (4) 457 - 485.'
 ---
 Inter-party voting coalitions in three minority cabinets were analysed: the
 38th (2004–05), 39th (2006–08) and 40th (2008–11) Federal Canadian
