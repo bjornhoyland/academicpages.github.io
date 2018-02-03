@@ -1,7 +1,7 @@
 ---
 title: "Issue-specific policy-positions and voting in the Council"
 collection: publications
-permalink: /publication/budget_lisbon
+permalink: /publication/issue-voting
 excerpt: 'We show that governments' voting behaviour in the Council is guided by their issue-specific positions. '
 date: 2014-03-01
 venue: 'European Union Politics'
