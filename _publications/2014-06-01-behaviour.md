@@ -2,7 +2,7 @@
 title: "Political behaviour in the European Parliament"
 collection: publications
 permalink: /publication/behaviour
-excerpt: 'This chapter examines political behavior and legislative politics in the European Parliament. I '
+excerpt: 'This chapter examines political behavior and legislative politics in the European Parliament. '
 date: 2014-06-01
 venue: 'The Oxford Handbook of Legislative Studies'
 paperurl: 'https://doi.org/10.1093/oxfordhb/9780199653010.013.0021'
