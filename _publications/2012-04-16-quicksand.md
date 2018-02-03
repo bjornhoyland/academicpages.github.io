@@ -2,7 +2,7 @@
 title: "Peace on quicksand? Challenging the conventional wisdom about economic growth and post-conflict risks"
 collection: publications
 permalink: /publication/quicksand
-excerpt: 'We replicate Collier, Hoeffler & Söderbom  using data from the UCDP/PRIO Armed Conflict Database instead of the Correlates of War database, finding substantive differences '
+excerpt: 'We replicate Collier, Hoeffler & Söderbom  using data from the UCDP/PRIO Armed Conflict Database instead of the Correlates of War database, finding substantive differences. '
 date: 2012-04-16
 venue: 'Journal of Peace Research'
 paperurl: 'https://doi.org/10.1177/0022343312436767'
