@@ -11,3 +11,5 @@ citation: 'Bjørn Høyland and Vibeke Wøien Hansen (2015).&quot;The budgetary p
 Politics in the Council is Janus-faced. There is bargaining with identifiable winners and losers, yet the voting records show high levels of agreement. These two sides have almost exclusively been studied in isolation even though standard theoretical models of voting typically assume that actors’ behaviour is guided by their positions relative to the proposal and the status quo. By combining positional data and voting data, we evaluate to what extent voting is driven by salience-weighted issue-specific positions. Our results show that governments’ voting behaviour is guided by their issue-specific positions. The relationship between preference-based positions and votes is stronger when we impute values for the missing positions in the positional data. This illustrates the importance of cautious treatment of missing data in EU decision-making.
 
 [Download paper here](http://journals.sagepub.com/doi/pdf/10.1177/1465116513495970)
+
+[Replication files](https://bjornhoyland.github.io/files/issue-voting.zip)
