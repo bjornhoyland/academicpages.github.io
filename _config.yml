@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &bjornhoyland
 facebook:
   username               :
   app_id                 :
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Bjørn Høyland"
-  avatar           : "profile.png"
+  avatar           : "bjorn.JPG"
   bio              : "Professor of Political Science"
   location         : "Oslo, Norway"
   employer         : "University of Oslo"
