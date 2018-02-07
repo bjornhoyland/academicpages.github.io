@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bjornhoyland"
+  github           : #"bjornhoyland"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCPP1hIXs-rNGWe0VpFhP5TA?view_as=subscriber"
+  youtube          : #"https://www.youtube.com/channel/UCPP1hIXs-rNGWe0VpFhP5TA?view_as=subscriber"
   wikipedia        :
 
 
