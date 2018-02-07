@@ -80,7 +80,10 @@ Teaching
   
 Service and leadership
 ======
-
+* Editorial board member 2011 - 
+	* [European Union Politics](http://journals.sagepub.com/home/eup)
+* Editorial board member 2011 - 2017
+	* [Journal of peace research](http://journals.sagepub.com/home/jpr)
 * Elected Faculty Representative 2012 -  
 	* Board of the Faculty of Social Sciences, University of Oslo
 * External Evaluator – Postdoctoral fellowships  2016 & 2017
