@@ -84,7 +84,7 @@ author:
   location         : "Oslo, Norway"
   employer         : "University of Oslo"
   googlescholar    : "https://scholar.google.com/citations?user=LKrqoSgAAAAJ&hl=en"
-  email            : "bjorn.hoyland@stv.uio.no"
+  email            : #"bjorn.hoyland@stv.uio.no"
   uri              : "http://www.sv.uio.no/isv/english/people/aca/bjornkho/index.html"
   bitbucket        :
   codepen          :
