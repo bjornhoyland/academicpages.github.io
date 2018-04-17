@@ -1,10 +1,10 @@
 ---
 title: "The EU Annual Budgetary Procedure: The Existing Rules and Proposed Reforms of the Convention and Intergovernmental Conference 2002–04"
 collection: publications
-permalink: /publication/council
-excerpt: ' We investigate to what extent formal position-taking in the Council of the European Union can be explained by the ideological party affiliation of the governing parties. '
+permalink: /publication/budget_reform
+excerpt: ' This article analyses the proposed reform of the annual budgetary procedure of the European Union (EU) during the 2002–04 Convention and Intergovernmental Conference (IGC).  '
 date: 2007-08-13
-venue: 'Journal of European Public Policy'
+venue: 'Journal of Common Market Studies'
 paperurl: 'https://doi.org/10.1111/j.1468-5965.2007.00727.x'
 citation: 'Giacomo Benedetto and Bjørn Høyland (2007).&quot;The EU Annual Budgetary Procedure: The Existing Rules and Proposed Reforms of the Convention and Intergovernmental Conference 2002–04.&quot;<i>Journal of Common Market Studies</i>  45 (3) 565 - 587.'
 ---
