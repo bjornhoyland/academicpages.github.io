@@ -66,12 +66,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -80,6 +74,8 @@ Teaching
   
 Service and leadership
 ======
+* Director of Studies 2020 - 
+  * Department of Political Science, University of Oslo
 * Editorial board member 2011 - 
 	* [European Union Politics](http://journals.sagepub.com/home/eup)
 * Editorial board member 2011 - 2017
