@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "StREP"
+    url: /strep/
 
   - title: "Teaching"
     url: /teaching/ 
