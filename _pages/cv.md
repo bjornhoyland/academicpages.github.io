@@ -76,11 +76,13 @@ Service and leadership
 ======
 * Director of Studies 2020 - 
   * Department of Political Science, University of Oslo
+* [External Evaluator - ERC](https://erc.europa.eu) 2020
+  * Starting Grant
 * Editorial board member 2011 - 
 	* [European Union Politics](http://journals.sagepub.com/home/eup)
 * Editorial board member 2011 - 2017
 	* [Journal of peace research](http://journals.sagepub.com/home/jpr)
-* Elected Faculty Representative 2012 -  
+* Elected Faculty Representative 2012 - 2019 
 	* Board of the Faculty of Social Sciences, University of Oslo
 * External Evaluator – Postdoctoral fellowships  2016 & 2017
 	* Research Foundation Flanders, Belgium
