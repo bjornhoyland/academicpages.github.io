@@ -50,6 +50,7 @@ Current and Previous Positions
   
 Fellowships and Awards
 ======
+* Researcher project, Research Council of Norway, 2020 - 2024
 * Anna Lindh Fellow and Visiting Professor, Europe Center, Stanford University, USA 2013 - 2014
 * Postdoctoral Fellowship, Award received from Economic and Social Research Council, UK 2005 - 2006
 * Research Studentship, LSE, UK 2003 - 2004
