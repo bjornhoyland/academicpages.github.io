@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests are legislative politics, applied political methodology, and computational social science. My empirical focus is the European Union, in particular the European Parliament (EP), but also bicameral relations between the EP and the Council, as well as legislative and budgetary politics. With Simon Hix, I am writing the 4th edition of [the Political System of the European Union](https://www.macmillanihe.com/page/detail/The-Political-System-of-the-European-Union/?K=9780230249813). I also do work on national parliments, such as the Canadian House of Commons and, more recently, the Norwegian Parliament. 
+I am professor of political science at the [University of Oslo](https://www.sv.uio.no/isv/english/). My research interests are legislative politics, applied political methodology, and computational social science. My empirical focus is the European Union, in particular the European Parliament (EP), but also bicameral relations between the EP and the Council, as well as legislative and budgetary politics. With Simon Hix, I am writing the 4th edition of [the Political System of the European Union](https://www.macmillanihe.com/page/detail/The-Political-System-of-the-European-Union/?K=9780230249813). I also do work on national parliments, such as the Canadian House of Commons and, more recently, the Norwegian Parliament. 
 
 Current research
 ======
